@@ -17,3 +17,5 @@ This repository contains all the completed assignments as a part of 'Full Stack 
 - **[Assignment_10](https://github.com/thejas110/iNeuron-FSDS-Assignments/blob/master/01_Python_Basic_Assignments/10_Python_Basic_Assignment_10_ThejasN_19-Feb-22.ipynb)**
 - **[Assignment_11](https://github.com/thejas110/iNeuron-FSDS-Assignments/blob/master/01_Python_Basic_Assignments/11_Python_Basic_Assignment_11_ThejasN_21-Feb-22.ipynb)**
 - **[Assignment_12](https://github.com/thejas110/iNeuron-FSDS-Assignments/blob/master/01_Python_Basic_Assignments/12_Python_Basic_Assignment_12_ThejasN_25-Feb-22.ipynb)**
+- **[Assignment_13](https://github.com/thejas110/iNeuron-FSDS-Assignments/blob/master/01_Python_Basic_Assignments/13_Python_Basic_Assignment_13_ThejasN_25-Feb-22.ipynb)**
+
